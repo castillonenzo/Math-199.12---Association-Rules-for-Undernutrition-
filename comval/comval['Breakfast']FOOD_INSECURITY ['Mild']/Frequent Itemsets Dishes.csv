@@ -1,0 +1,122 @@
+,support,itemsets,length
+0,0.9873417721518988,{'Boiled Rice'},1
+1,0.5822784810126582,{'Water'},1
+2,0.569620253164557,"{'Water', 'Boiled Rice'}",2
+3,0.31645569620253167,{'Fried Egg'},1
+4,0.31645569620253167,"{'Fried Egg', 'Boiled Rice'}",2
+5,0.26582278481012656,{'Milk'},1
+6,0.25316455696202533,"{'Milk', 'Boiled Rice'}",2
+7,0.17088607594936708,"{'Fried Egg', 'Water'}",2
+8,0.17088607594936708,"{'Fried Egg', 'Water', 'Boiled Rice'}",3
+9,0.13924050632911392,"{'Milk', 'Water'}",2
+10,0.13291139240506328,{'Fried Fish'},1
+11,0.13291139240506328,"{'Fried Processed Meat', 'Boiled Rice'}",2
+12,0.13291139240506328,{'Fried Processed Meat'},1
+13,0.12658227848101267,"{'Milk', 'Water', 'Boiled Rice'}",3
+14,0.12658227848101267,"{'Fried Fish', 'Boiled Rice'}",2
+15,0.08860759493670886,{'Boiled Fish'},1
+16,0.08860759493670886,"{'Boiled Fish', 'Boiled Rice'}",2
+17,0.08227848101265822,"{'Fried Egg', 'Milk'}",2
+18,0.08227848101265822,"{'Fried Fish', 'Water'}",2
+19,0.08227848101265822,"{'Fried Egg', 'Milk', 'Boiled Rice'}",3
+20,0.0759493670886076,"{'Fried Fish', 'Water', 'Boiled Rice'}",3
+21,0.0759493670886076,"{'Fried Processed Meat', 'Water', 'Boiled Rice'}",3
+22,0.0759493670886076,"{'Fried Processed Meat', 'Water'}",2
+23,0.06962025316455696,{'Sweets'},1
+24,0.06962025316455696,"{'Sweets', 'Boiled Rice'}",2
+25,0.06329113924050633,"{'Boiled Fish', 'Water', 'Boiled Rice'}",3
+26,0.06329113924050633,"{'Boiled Fish', 'Water'}",2
+27,0.056962025316455694,"{'Sauteed Vegetable', 'Boiled Rice'}",2
+28,0.056962025316455694,{'Boiled Egg'},1
+29,0.056962025316455694,{'Sauteed Vegetable'},1
+30,0.056962025316455694,"{'Boiled Egg', 'Boiled Rice'}",2
+31,0.05063291139240506,"{'Fried Fish', 'Milk'}",2
+32,0.04430379746835443,"{'Water', 'Boiled Egg', 'Boiled Rice'}",3
+33,0.04430379746835443,"{'Fried Processed Meat', 'Fried Egg'}",2
+34,0.04430379746835443,"{'Fried Fish', 'Milk', 'Boiled Rice'}",3
+35,0.04430379746835443,"{'Boiled Vegetable', 'Boiled Rice'}",2
+36,0.04430379746835443,"{'Fried Processed Meat', 'Fried Egg', 'Boiled Rice'}",3
+37,0.04430379746835443,{'Boiled Vegetable'},1
+38,0.04430379746835443,"{'Water', 'Boiled Egg'}",2
+39,0.0379746835443038,"{'Canned Processed Meat', 'Boiled Rice'}",2
+40,0.0379746835443038,{'Canned Processed Meat'},1
+41,0.0379746835443038,"{'Fried Pork', 'Boiled Rice'}",2
+42,0.0379746835443038,{'Fried Pork'},1
+43,0.03164556962025317,{'Boiled Noodles'},1
+44,0.03164556962025317,"{'Boiled Noodles', 'Boiled Rice'}",2
+45,0.03164556962025317,"{'Fried Egg', 'Milk', 'Water', 'Boiled Rice'}",4
+46,0.03164556962025317,"{'Fried Egg', 'Milk', 'Water'}",3
+47,0.02531645569620253,"{'Fried Vegetable', 'Water', 'Boiled Rice'}",3
+48,0.02531645569620253,"{'Boiled Noodles', 'Water', 'Boiled Rice'}",3
+49,0.02531645569620253,"{'Milk', 'Water', 'Boiled Egg'}",3
+50,0.02531645569620253,"{'Milk', 'Boiled Egg'}",2
+51,0.02531645569620253,"{'Fried Processed Meat', 'Milk'}",2
+52,0.02531645569620253,"{'Water', 'Sauteed Vegetable', 'Boiled Rice'}",3
+53,0.02531645569620253,"{'Milk', 'Boiled Egg', 'Water', 'Boiled Rice'}",4
+54,0.02531645569620253,"{'Fried Pork', 'Water', 'Boiled Rice'}",3
+55,0.02531645569620253,"{'Fried Processed Meat', 'Milk', 'Boiled Rice'}",3
+56,0.02531645569620253,"{'Milk', 'Boiled Egg', 'Boiled Rice'}",3
+57,0.02531645569620253,"{'Fried Fish', 'Milk', 'Water'}",3
+58,0.02531645569620253,"{'Fried Pork', 'Water'}",2
+59,0.02531645569620253,"{'Sauteed Vegetable', 'Water'}",2
+60,0.02531645569620253,"{'Boiled Noodles', 'Water'}",2
+61,0.02531645569620253,"{'Fried Vegetable', 'Boiled Rice'}",2
+62,0.02531645569620253,"{'Fried Chicken', 'Boiled Rice'}",2
+63,0.02531645569620253,"{'Fried Vegetable', 'Water'}",2
+64,0.02531645569620253,{'Fried Vegetable'},1
+65,0.02531645569620253,"{'Boiled Pork', 'Boiled Rice'}",2
+66,0.02531645569620253,{'Fried Chicken'},1
+67,0.02531645569620253,{'Boiled Pork'},1
+68,0.0189873417721519,"{'Fried Processed Meat', 'Fried Egg', 'Water'}",3
+69,0.0189873417721519,"{'Milk', 'Canned Processed Meat', 'Boiled Rice'}",3
+70,0.0189873417721519,"{'Water', 'Fried Chicken', 'Boiled Rice'}",3
+71,0.0189873417721519,"{'Milk', 'Sauteed Vegetable', 'Boiled Rice'}",3
+72,0.0189873417721519,"{'Boiled Vegetable', 'Water', 'Boiled Rice'}",3
+73,0.0189873417721519,"{'Fried Processed Meat', 'Milk', 'Water'}",3
+74,0.0189873417721519,"{'Fried Processed Meat', 'Fried Egg', 'Water', 'Boiled Rice'}",4
+75,0.0189873417721519,"{'Fried Chicken', 'Water'}",2
+76,0.0189873417721519,"{'Milk', 'Sauteed Vegetable'}",2
+77,0.0189873417721519,"{'Milk', 'Canned Processed Meat'}",2
+78,0.0189873417721519,"{'Boiled Vegetable', 'Water'}",2
+79,0.0189873417721519,"{'Fried Processed Meat', 'Milk', 'Water', 'Boiled Rice'}",4
+80,0.0189873417721519,"{'Fried Fish', 'Water', 'Milk', 'Boiled Rice'}",4
+81,0.012658227848101266,"{'Sauteed Noodles', 'Milk', 'Water'}",3
+82,0.012658227848101266,{'Coffee'},1
+83,0.012658227848101266,"{'Canned Processed Meat', 'Milk', 'Water', 'Boiled Rice'}",4
+84,0.012658227848101266,"{'Fried Processed Meat', 'Sweets', 'Boiled Rice'}",3
+85,0.012658227848101266,{'Raw Fruit'},1
+86,0.012658227848101266,"{'Milk', 'Baked Bread', 'Boiled Rice'}",3
+87,0.012658227848101266,"{'Milk', 'Canned Processed Meat', 'Water'}",3
+88,0.012658227848101266,"{'Milk', 'Condiment', 'Boiled Rice'}",3
+89,0.012658227848101266,"{'Boiled Fish', 'Coffee', 'Boiled Rice'}",3
+90,0.012658227848101266,"{'Fried Egg', 'Milk', 'Baked Bread'}",3
+91,0.012658227848101266,{'Baked Bread'},1
+92,0.012658227848101266,"{'Fried Egg', 'Sweets', 'Boiled Rice'}",3
+93,0.012658227848101266,{'Processed Meat'},1
+94,0.012658227848101266,"{'Fried Egg', 'Baked Bread', 'Boiled Rice'}",3
+95,0.012658227848101266,"{'Processed Meat', 'Boiled Rice'}",2
+96,0.012658227848101266,{'Sauteed Noodles'},1
+97,0.012658227848101266,"{'Fried Fish', 'Fried Egg'}",2
+98,0.012658227848101266,"{'Sauteed Noodles', 'Water'}",2
+99,0.012658227848101266,"{'Fried Egg', 'Sweets'}",2
+100,0.012658227848101266,"{'Fried Egg', 'Baked Bread'}",2
+101,0.012658227848101266,"{'Fried Fish', 'Sweets'}",2
+102,0.012658227848101266,"{'Fried Processed Meat', 'Sweets'}",2
+103,0.012658227848101266,"{'Fried Fish', 'Fried Processed Meat'}",2
+104,0.012658227848101266,"{'Milk', 'Baked Bread'}",2
+105,0.012658227848101266,"{'Sauteed Noodles', 'Milk'}",2
+106,0.012658227848101266,"{'Milk', 'Condiment'}",2
+107,0.012658227848101266,"{'Boiled Fish', 'Coffee'}",2
+108,0.012658227848101266,"{'Fried Fish', 'Fried Egg', 'Boiled Rice'}",3
+109,0.012658227848101266,{'Boiled Others'},1
+110,0.012658227848101266,"{'Fried Fish', 'Fried Processed Meat', 'Boiled Rice'}",3
+111,0.012658227848101266,"{'Condiment', 'Boiled Rice'}",2
+112,0.012658227848101266,"{'Fried Fish', 'Sweets', 'Boiled Rice'}",3
+113,0.012658227848101266,"{'Boiled Others', 'Boiled Rice'}",2
+114,0.012658227848101266,"{'Coffee', 'Boiled Rice'}",2
+115,0.012658227848101266,"{'Raw Fruit', 'Boiled Rice'}",2
+116,0.012658227848101266,"{'Baked Bread', 'Boiled Rice'}",2
+117,0.012658227848101266,"{'Water', 'Canned Processed Meat', 'Boiled Rice'}",3
+118,0.012658227848101266,"{'Canned Processed Meat', 'Water'}",2
+119,0.012658227848101266,{'Condiment'},1
+120,0.012658227848101266,"{'Fried Egg', 'Milk', 'Baked Bread', 'Boiled Rice'}",4

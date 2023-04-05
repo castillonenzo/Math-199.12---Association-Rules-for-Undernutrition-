@@ -1,8 +1,0 @@
-Location: comval
-Number of Transactions/Meals: 42 
-Number of Children/Households: 14
- 
-Carbohydrates: 51.44047619047618 
-Fat: 12.183333333333334 
-Protein: 11.229761904761903
-Calories: 360.04761904761904
